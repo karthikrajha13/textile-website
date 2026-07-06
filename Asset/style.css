@@ -75,7 +75,7 @@ body {
 }
 
 .services-hero {
-  background: url("../asset/Resources/services-bg.png") center/cover no-repeat;
+  background: url("../Asset/Resources/services-bg.png") center/cover no-repeat;
   height: 250px;
 }
 
@@ -90,7 +90,7 @@ body {
 }
 
 .cta-box {
-  background: url("../asset/Resources/cta-bg.png") left top/cover no-repeat;
+  background: url("../Asset/Resources/cta-bg.png") left top/cover no-repeat;
   border-radius: 25px;
   padding: 80px 60px;
   position: relative;
